@@ -28,16 +28,14 @@
     
               </div>
               <div class="timeline__event__date">
-                20-08-2019
+                <%= posts[1].user.username %>
               </div>
               <div class="timeline__event__content">
                 <div class="timeline__event__title">
-                  Lunch
+                  <%= posts[1].content %>
                 </div>
                 <div class="timeline__event__description">
-                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nam! Nam eveniet ut aliquam ab
-                    asperiores, accusamus iure veniam corporis incidunt reprehenderit accusantium id aut architecto harum
-                    quidem dolorem in!</p>
+                  <p><%= posts[1].createdAt %></p>
                 </div>
               </div>
             </div>
@@ -47,16 +45,15 @@
     
               </div>
               <div class="timeline__event__date">
-                20-08-2019
+                <%= posts[2].user.username %>
               </div>
               <div class="timeline__event__content">
                 <div class="timeline__event__title">
-                  Exercise
+                  <%= posts[2].content %>
                 </div>
                 <div class="timeline__event__description">
-                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nam! Nam eveniet ut aliquam ab
-                    asperiores, accusamus iure veniam corporis incidunt reprehenderit accusantium id aut architecto harum
-                    quidem dolorem in!</p>
+                  <p><%= posts[2].createdAt %></p>
+                  
                 </div>
     
               </div>
@@ -67,16 +64,15 @@
     
               </div>
               <div class="timeline__event__date">
-                20-08-2019
+                <%= posts[3].user.username %>
               </div>
               <div class="timeline__event__content">
                 <div class="timeline__event__title">
-                  Birthday
+                  <%= posts[3].content %>
                 </div>
                 <div class="timeline__event__description">
-                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nam! Nam eveniet ut aliquam ab
-                    asperiores, accusamus iure veniam corporis incidunt reprehenderit accusantium id aut architecto harum
-                    quidem dolorem in!</p>
+                  <p><%= posts[3].createdAt %></p>
+                  
                 </div>
               </div>
             </div>
@@ -247,6 +243,7 @@
   
             .timeline__event__description {
               flex-basis: 60%;
+              color: #525f7f;
             }
   
             .timeline__event--type2:after {

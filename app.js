@@ -74,8 +74,8 @@ app.get("/", async (req, res, next) => {
   }
   else{
     const posts = await Post.find().populate("user", "_id username")
-    res.locals.posts = posts.slice(-3).reverse()
-    console.log(res.locals.posts)
+    res.locals.posts = posts.slice(-5).reverse()
+    // console.log(res.locals.posts)
     res.render("feed")
   }
   // console.log("hellow")

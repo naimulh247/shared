@@ -2,9 +2,13 @@
   "name": "shared",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node app.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> parent of 15c5e4c (Install and add all dependencies)
   },
   "repository": {
     "type": "git",
@@ -15,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/naimulh247/shared/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/naimulh247/shared#readme",
   "dependencies": {
     "axios": "^0.27.2",
@@ -31,4 +36,7 @@
   "devDependencies": {
     "nodemon": "^2.0.16"
   }
+=======
+  "homepage": "https://github.com/naimulh247/shared#readme"
+>>>>>>> parent of 15c5e4c (Install and add all dependencies)
 }
