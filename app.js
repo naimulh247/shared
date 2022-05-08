@@ -118,6 +118,9 @@ app.get("/feed", isLoggedIn, (req, res) => {
   res.render("feed")
 })
 
+app.get("/about", (req, res) =>{
+  res.render("about")
+})
 
 async function fetchPosts(username){
 
