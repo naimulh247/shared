@@ -1,7 +1,7 @@
 # Welcome to SHARED!
 This is my submission for cpa-02 for CS103 for Professor Tim Hicky at Brandeis University
 
-SHARED is an app that allows the user to post to the world based on text and show the four most recent posts.
+[SHARED](https://shared-us.herokuapp.com/) is an app that allows the user to post to the world based on text and show the four most recent posts.
 
 
 # Get Started
