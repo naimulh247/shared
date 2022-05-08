@@ -141,7 +141,7 @@ async function fetchPosts(username){
 
 
 
-// here we catch 404 errors and forward to error handler
+
 app.use(function(req, res, next) {
   next(createError(404));
 });
