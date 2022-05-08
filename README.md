@@ -11,7 +11,7 @@ Clone the repository using:
   cd into the repo
   
 
-    cd cyper
+    cd shared
   install all the packages
   
 
@@ -35,3 +35,9 @@ run the app!
 Compared to my app [cyper](https://github.com/naimulh247/cyper/) this app is very light with a different purpose. The app doesn't have the same anonymity as [cyper](https://github.com/naimulh247/cyper/) and is more public. This app does not use that much dependencies, few relating cookies, mongodb, and express. 
 
 
+# Screenshots
+![image](https://github.com/naimulh247/shared/blob/master/screenshots/1.png)
+![image](https://github.com/naimulh247/shared/blob/master/screenshots/2.png)
+![image](https://github.com/naimulh247/shared/blob/master/screenshots/3.png)
+![image](https://github.com/naimulh247/shared/blob/master/screenshots/4.png)
+![image](https://github.com/naimulh247/shared/blob/master/screenshots/5.png)
