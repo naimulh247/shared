@@ -1,0 +1,19 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naimulh247/shared.git"
+  },
+  "author": "Naimul Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimulh247/shared/issues"
+  },
+  "homepage": "https://github.com/naimulh247/shared#readme"
+}
