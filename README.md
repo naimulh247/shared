@@ -26,10 +26,10 @@ run the app!
  - [x] About
  - [ ] Search Engine
  - [x] User profile and post linked (no public)
- - [] Friends specific feed
- - [] Reactions
- - [] Public and private replied
- - [] Image support
+ - [ ] Friends specific feed
+ - [ ] Reactions
+ - [ ] Public and private replied
+ - [ ] Image support
 
 # Developer Notes
 Compared to my app [cyper](https://github.com/naimulh247/cyper/) this app is very light with a different purpose. The app doesn't have the same anonymity as [cyper](https://github.com/naimulh247/cyper/) and is more public. This app does not use that much dependencies, few relating cookies, mongodb, and express. 
