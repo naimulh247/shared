@@ -3,7 +3,6 @@ This is my submission for cpa-02 for CS103 for Professor Tim Hicky at Brandeis U
 
 [SHARED](https://shared-us.herokuapp.com/) is an app that allows the user to post to the world based on text and show the four most recent posts.
 
-[Video Submission](https://drive.google.com/file/d/1sqXgZ5ahLRTfJ3DFcC88XXdBkoNDvYO1/view?usp=sharing)
 
 # Get Started
 
